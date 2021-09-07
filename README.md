@@ -1,0 +1,4 @@
+-ello, im tech or technodest
+-i main in automation and AI
+-i wanna get deeper on C++ automations like ants
+-i may or may not collab since im sorta new to coding
